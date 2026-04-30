@@ -1,0 +1,3 @@
+strategy,nodes,edges,weak_components,largest_component_nodes,density
+rule_based_regex,64,35,29,4,0.008681
+off_the_shelf_textacy_svo,2589,2439,482,1414,0.000338

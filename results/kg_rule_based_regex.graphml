@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="example_sentence" attr.type="string" />
+  <key id="d3" for="edge" attr.name="example_title" attr.type="string" />
+  <key id="d2" for="edge" attr.name="support_count" attr.type="long" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Andy">
+      <data key="d0">Andy</data>
+    </node>
+    <node id="Jeff">
+      <data key="d0">Jeff</data>
+    </node>
+    <node id="Ann">
+      <data key="d0">Ann</data>
+    </node>
+    <node id="Duke">
+      <data key="d0">Duke</data>
+    </node>
+    <node id="Bugs">
+      <data key="d0">Bugs</data>
+    </node>
+    <node id="Sam">
+      <data key="d0">Sam</data>
+    </node>
+    <node id="Craig">
+      <data key="d0">Craig</data>
+    </node>
+    <node id="Ellen">
+      <data key="d0">Ellen</data>
+    </node>
+    <node id="Denny">
+      <data key="d0">Denny</data>
+    </node>
+    <node id="Denton">
+      <data key="d0">Denton</data>
+    </node>
+    <node id="Montefiori">
+      <data key="d0">Montefiori</data>
+    </node>
+    <node id="Edwin">
+      <data key="d0">Edwin</data>
+    </node>
+    <node id="Felice">
+      <data key="d0">Felice</data>
+    </node>
+    <node id="Stephen">
+      <data key="d0">Stephen</data>
+    </node>
+    <node id="Freddie Fletcher">
+      <data key="d0">Freddie Fletcher</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">Elizabeth</data>
+    </node>
+    <node id="Grendel">
+      <data key="d0">Grendel</data>
+    </node>
+    <node id="Hrothgar">
+      <data key="d0">Hrothgar</data>
+    </node>
+    <node id="James Joyce">
+      <data key="d0">James Joyce</data>
+    </node>
+    <node id="Nora Barnacle">
+      <data key="d0">Nora Barnacle</data>
+    </node>
+    <node id="January">
+      <data key="d0">January</data>
+    </node>
+    <node id="Judkins">
+      <data key="d0">Judkins</data>
+    </node>
+    <node id="Jerry">
+      <data key="d0">Jerry</data>
+    </node>
+    <node id="Sally Peters">
+      <data key="d0">Sally Peters</data>
+    </node>
+    <node id="Jim">
+      <data key="d0">Jim</data>
+    </node>
+    <node id="Mexico">
+      <data key="d0">Mexico</data>
+    </node>
+    <node id="Joe">
+      <data key="d0">Joe</data>
+    </node>
+    <node id="John Coble">
+      <data key="d0">John Coble</data>
+    </node>
+    <node id="Horn">
+      <data key="d0">Horn</data>
+    </node>
+    <node id="Junior">
+      <data key="d0">Junior</data>
+    </node>
+    <node id="Milo">
+      <data key="d0">Milo</data>
+    </node>
+    <node id="Karel">
+      <data key="d0">Karel</data>
+    </node>
+    <node id="Murphy">
+      <data key="d0">Murphy</data>
+    </node>
+    <node id="Kelly">
+      <data key="d0">Kelly</data>
+    </node>
+    <node id="German East Africa">
+      <data key="d0">German East Africa</data>
+    </node>
+    <node id="Larry">
+      <data key="d0">Larry</data>
+    </node>
+    <node id="Beverly Hills">
+      <data key="d0">Beverly Hills</data>
+    </node>
+    <node id="Leif">
+      <data key="d0">Leif</data>
+    </node>
+    <node id="Egil">
+      <data key="d0">Egil</data>
+    </node>
+    <node id="Max">
+      <data key="d0">Max</data>
+    </node>
+    <node id="Horst">
+      <data key="d0">Horst</data>
+    </node>
+    <node id="O'Hara">
+      <data key="d0">O'Hara</data>
+    </node>
+    <node id="Weber">
+      <data key="d0">Weber</data>
+    </node>
+    <node id="London">
+      <data key="d0">London</data>
+    </node>
+    <node id="Scotland Yard">
+      <data key="d0">Scotland Yard</data>
+    </node>
+    <node id="Once Jehu">
+      <data key="d0">Once Jehu</data>
+    </node>
+    <node id="Jezebel">
+      <data key="d0">Jezebel</data>
+    </node>
+    <node id="Philip">
+      <data key="d0">Philip</data>
+    </node>
+    <node id="Sally">
+      <data key="d0">Sally</data>
+    </node>
+    <node id="Purdy">
+      <data key="d0">Purdy</data>
+    </node>
+    <node id="Kelp">
+      <data key="d0">Kelp</data>
+    </node>
+    <node id="Ralph">
+      <data key="d0">Ralph</data>
+    </node>
+    <node id="New York">
+      <data key="d0">New York</data>
+    </node>
+    <node id="Roy">
+      <data key="d0">Roy</data>
+    </node>
+    <node id="Betty Weston">
+      <data key="d0">Betty Weston</data>
+    </node>
+    <node id="Soffel">
+      <data key="d0">Soffel</data>
+    </node>
+    <node id="Ed">
+      <data key="d0">Ed</data>
+    </node>
+    <node id="Sydney">
+      <data key="d0">Sydney</data>
+    </node>
+    <node id="Sylvia">
+      <data key="d0">Sylvia</data>
+    </node>
+    <node id="Skeet">
+      <data key="d0">Skeet</data>
+    </node>
+    <node id="Terry">
+      <data key="d0">Terry</data>
+    </node>
+    <node id="Len">
+      <data key="d0">Len</data>
+    </node>
+    <node id="Torg">
+      <data key="d0">Torg</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">Mary</data>
+    </node>
+    <edge source="Andy" target="Jeff" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Kiss the Sky</data>
+      <data key="d4">After a period together, Jeff misses his family and the relationship of the group deteriorates when Andy falls in love with Jeff</data>
+    </edge>
+    <edge source="Ann" target="Duke" id="0">
+      <data key="d1">shoots</data>
+      <data key="d2">1</data>
+      <data key="d3">Private Property</data>
+      <data key="d4">Roger returns home, fights Duke, and Ann shoots Duke</data>
+    </edge>
+    <edge source="Bugs" target="Sam" id="0">
+      <data key="d1">shoots</data>
+      <data key="d2">1</data>
+      <data key="d3">Bugs Bunny Rides Again</data>
+      <data key="d4">Bugs and Sam draws out increasingly bigger guns; Bugs shoots Sam's nose with a pea shooter, and, after performing a soft shoe routine, tricks him into falling into a mine shaft.[4] When Sam returns to the surface, Bugs dares him to cross lines drawn with his foot Sam does so until he falls off the cliff</data>
+    </edge>
+    <edge source="Craig" target="Ellen" id="0">
+      <data key="d1">marries</data>
+      <data key="d2">1</data>
+      <data key="d3">Marine Raiders</data>
+      <data key="d4">Preparing for an invasion of an unnamed South Pacific island whilst back in Australia, Craig marries Ellen</data>
+    </edge>
+    <edge source="Ellen" target="Edwin" id="0">
+      <data key="d1">marries</data>
+      <data key="d2">1</data>
+      <data key="d3">Wonder Man</data>
+      <data key="d4">In the end, Ellen marries Edwin, whilst Midge consoles herself (apparently without regret) by marrying the owner of the club where Buster was appearing</data>
+    </edge>
+    <edge source="Denny" target="Andy" id="0">
+      <data key="d1">helps</data>
+      <data key="d2">1</data>
+      <data key="d3">The Upside of Anger</data>
+      <data key="d4">Keen to help where he can, Denny helps Andy, one of Terry's daughters, to become a production assistant at the radio station where he works</data>
+    </edge>
+    <edge source="Denton" target="Montefiori" id="0">
+      <data key="d1">shoots</data>
+      <data key="d2">1</data>
+      <data key="d3">The Light at the Edge of the World</data>
+      <data key="d4">On the next day, Kongre has Montefiori flayed alive on his ship, trying to draw Denton out of hiding, but Denton shoots Montefiori from afar</data>
+    </edge>
+    <edge source="Felice" target="Stephen" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Adventure in Diamonds</data>
+      <data key="d4">While they wait to be contacted by the gang, Felice and Stephen spend some quality time together, and Felice falls in love with Stephen for real</data>
+    </edge>
+    <edge source="Freddie Fletcher" target="Elizabeth" id="0">
+      <data key="d1">rescues</data>
+      <data key="d2">1</data>
+      <data key="d3">Dry Martini</data>
+      <data key="d4">Quimby's young pal Freddie Fletcher saves Elizabeth from the clutches of de Launay in the nick of time</data>
+    </edge>
+    <edge source="Grendel" target="Hrothgar" id="0">
+      <data key="d1">kills</data>
+      <data key="d2">1</data>
+      <data key="d3">Beowulf</data>
+      <data key="d4">Grendel kills Hrothgar, after the truth of his heritage is revealed</data>
+    </edge>
+    <edge source="James Joyce" target="Nora Barnacle" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">Nora</data>
+      <data key="d4">Walking down Dublin's Nassau Street, James Joyce meets Nora Barnacle, a young and attractive woman from Galway</data>
+    </edge>
+    <edge source="January" target="Judkins" id="0">
+      <data key="d1">helps</data>
+      <data key="d2">1</data>
+      <data key="d3">Captain January</data>
+      <data key="d4">January helps Judkins with his tasks around the lighthouse</data>
+    </edge>
+    <edge source="Jerry" target="Sally Peters" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">Top Banana</data>
+      <data key="d4">Jerry meets Sally Peters (Judy Lynn), one of the department store models, and makes her part of his TV troupe</data>
+    </edge>
+    <edge source="Jim" target="Mexico" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Three Young Texans</data>
+      <data key="d4">Jim goes to Mexico, gets drunk, catches a man named McAdoo cheating at cards, then shoots him in self-defense</data>
+    </edge>
+    <edge source="Joe" target="Sam" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">Roadside Prophets</data>
+      <data key="d4">While riding his motorcycle around Nevada, Joe meets Sam, who is traveling on his own motorcycle to find the Motel 9 in which his parents committed suicide</data>
+    </edge>
+    <edge source="John Coble" target="Horn" id="0">
+      <data key="d1">finds</data>
+      <data key="d2">1</data>
+      <data key="d3">Tom Horn</data>
+      <data key="d4">Cattle company owner John Coble finds Horn in the livery and offers him his ranch to recuperate</data>
+    </edge>
+    <edge source="Junior" target="Milo" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Surf Party</data>
+      <data key="d4">While the girls are learning to surf, Terry falls in love with Len (Bobby Vinton), the operator of a local surf shop; Junior falls in love with Milo (Ken Miller), a new surfer; and Sylvia falls in love with Skeet (Jerry Summers</data>
+    </edge>
+    <edge source="Karel" target="Murphy" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Romance in Manhattan</data>
+      <data key="d4">Karel goes to Murphy and asks how to get married</data>
+    </edge>
+    <edge source="Kelly" target="German East Africa" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Queen Kelly</data>
+      <data key="d4">Original ending: Kelly goes to German East Africa to visit her dying aunt and is forced to marry a repulsive man named Jan</data>
+    </edge>
+    <edge source="Larry" target="Beverly Hills" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Lady Luck</data>
+      <data key="d4">Larry returns to Beverly Hills, where he finds Gramps running a bookie operation out of the book store</data>
+    </edge>
+    <edge source="Leif" target="Egil" id="0">
+      <data key="d1">kills</data>
+      <data key="d2">1</data>
+      <data key="d3">The Viking</data>
+      <data key="d4">Leif kills Egil, but is enraged when Helga reveals that she loves Alwin</data>
+    </edge>
+    <edge source="Max" target="Horst" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Bent</data>
+      <data key="d4">In the camp, Max falls in love with Horst (Lothaire Bluteau), who shows him the dignity that lies in acknowledging one's beliefs</data>
+    </edge>
+    <edge source="O'Hara" target="Weber" id="0">
+      <data key="d1">finds</data>
+      <data key="d2">1</data>
+      <data key="d3">Secret Venture</data>
+      <data key="d4">O'Hara finds Weber (Frederick Valk) in Paris, and learns that he now has the briefcase in his possession but is unable to decipher the contents which appear to be written in a complex code</data>
+    </edge>
+    <edge source="O'Hara" target="London" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Secret Venture</data>
+      <data key="d4">O'Hara returns to London and explains the situation to Scotland Yard</data>
+    </edge>
+    <edge source="O'Hara" target="Scotland Yard" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Secret Venture</data>
+      <data key="d4">Rather than cash in on this unexpected turn of events, O'Hara goes to Scotland Yard</data>
+    </edge>
+    <edge source="Once Jehu" target="Jezebel" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">Sins of Jezebel</data>
+      <data key="d4">Once Jehu meets Jezebel, he immediately becomes attracted to her and she confuses him for Ahab</data>
+    </edge>
+    <edge source="Philip" target="Sally" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">Of Human Bondage</data>
+      <data key="d4">With the burden of his obsession lifted by her death, Philip returns to Sally</data>
+    </edge>
+    <edge source="Purdy" target="Kelp" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">The Nutty Professor</data>
+      <data key="d4">Purdy meets Kelp backstage, and confesses that she prefers Kelp over Buddy Love</data>
+    </edge>
+    <edge source="Ralph" target="New York" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">New Morals for Old</data>
+      <data key="d4">Eventually, Phyl marries her paramour and Ralph returns to New York, having failed as an artist</data>
+    </edge>
+    <edge source="Roy" target="Betty Weston" id="0">
+      <data key="d1">meets</data>
+      <data key="d2">1</data>
+      <data key="d3">The Yellow Rose of Texas</data>
+      <data key="d4">Portraying a performer on a showboat as an undercover guise, Roy meets Betty Weston (Dale Evans), the daughter of the alleged robber Sam Weston (Harry Shannon), who has recently escaped from prison</data>
+    </edge>
+    <edge source="Soffel" target="Ed" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Mrs. Soffel</data>
+      <data key="d4">Soffel falls in love with Ed and enables him and Jack to escape, smuggling bar-cutting blades to him at the prison</data>
+    </edge>
+    <edge source="Sydney" target="Mexico" id="0">
+      <data key="d1">travels_to</data>
+      <data key="d2">1</data>
+      <data key="d3">The Eye</data>
+      <data key="d4">Accompanied by Paul, Sydney travels to Mexico, where the cornea donor Ana Cristina Martinez was originally from</data>
+    </edge>
+    <edge source="Sylvia" target="Skeet" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Surf Party</data>
+      <data key="d4">While the girls are learning to surf, Terry falls in love with Len (Bobby Vinton), the operator of a local surf shop; Junior falls in love with Milo (Ken Miller), a new surfer; and Sylvia falls in love with Skeet (Jerry Summers</data>
+    </edge>
+    <edge source="Terry" target="Len" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">Surf Party</data>
+      <data key="d4">While the girls are learning to surf, Terry falls in love with Len (Bobby Vinton), the operator of a local surf shop; Junior falls in love with Milo (Ken Miller), a new surfer; and Sylvia falls in love with Skeet (Jerry Summers</data>
+    </edge>
+    <edge source="Torg" target="Mary" id="0">
+      <data key="d1">loves</data>
+      <data key="d2">1</data>
+      <data key="d3">The Dark Tower</data>
+      <data key="d4">Meanwhile, Torg falls in love with Mary, though she makes it clear to him that her heart belongs to Tom</data>
+    </edge>
+  </graph>
+</graphml>
